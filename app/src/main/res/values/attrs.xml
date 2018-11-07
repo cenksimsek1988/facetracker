@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyDrawable">
+        <attr name="horizontal" format="integer" />
+        <attr name="vertical" format="integer" />
+    </declare-styleable>
+</resources>
