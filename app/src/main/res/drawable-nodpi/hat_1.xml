@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:drawable="@drawable/icon" app:horizontal="0"/>
+    <item android:drawable="@drawable/icon" app:horizontal="1"/>
+    <item android:drawable="@drawable/icon" app:horizontal="2"/>
+    <item android:drawable="@drawable/icon" app:horizontal="3"/>
+    <item android:drawable="@drawable/icon" app:horizontal="4"/>
+    <item android:drawable="@drawable/icon" app:horizontal="5"/>
+    <item android:drawable="@drawable/icon" app:horizontal="6"/>
+    <item android:drawable="@drawable/icon" app:horizontal="7"/>
+    <item android:drawable="@drawable/icon" app:horizontal="8"/>
+    <item android:drawable="@drawable/icon" app:horizontal="9"/>
+    <item android:drawable="@drawable/icon" app:horizontal="10"/>
+    <item android:drawable="@drawable/icon" app:horizontal="11"/>
+    <item android:drawable="@drawable/icon" app:horizontal="12"/>
+    <item android:drawable="@drawable/icon" app:horizontal="13"/>
+    <item android:drawable="@drawable/icon" app:horizontal="14"/>
+    <item android:drawable="@drawable/icon" app:horizontal="15"/>
+    <item android:drawable="@drawable/icon" app:horizontal="16"/>
+    <item android:drawable="@drawable/icon" app:horizontal="17"/>
+    <item android:drawable="@drawable/icon" app:horizontal="18"/>
+    <item android:drawable="@drawable/icon" app:horizontal="19"/>
+    <item android:drawable="@drawable/icon" app:horizontal="20"/>
+    <item android:drawable="@drawable/icon" app:horizontal="21"/>
+    <item android:drawable="@drawable/icon" app:horizontal="22"/>
+    <item android:drawable="@drawable/icon" app:horizontal="23"/>
+    <item android:drawable="@drawable/icon" app:horizontal="24"/>
+    <item android:drawable="@drawable/icon" app:horizontal="25"/>
+    <item android:drawable="@drawable/icon" app:horizontal="26"/>
+    <item android:drawable="@drawable/icon" app:horizontal="27"/>
+    <item android:drawable="@drawable/icon" app:horizontal="28"/>
+    <item android:drawable="@drawable/icon" app:horizontal="29"/>
+    <item android:drawable="@drawable/icon" app:horizontal="30"/>
+
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-1"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-2"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-3"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-4"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-5"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-6"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-7"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-8"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-9"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-10"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-11"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-12"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-13"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-14"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-15"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-16"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-17"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-18"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-19"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-20"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-21"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-22"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-23"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-24"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-25"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-26"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-27"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-28"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-29"/>
+    <item android:drawable="@drawable/common_google_signin_btn_text_dark" app:horizontal="-30"/>
+
+
+
+
+
+</selector>
